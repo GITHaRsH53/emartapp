@@ -15,7 +15,7 @@ Get the vagrant file in your directory (have 2gb ram and contains cmds to instal
 So we brought up the vm using vagrant and it installed the docker engine.
 Cmds ->vagrant up, ssh , sudo -i
 
-1)
+2)
 After cloning the emartapp repo go to the emartapp directory.
 Docker compose – shows options of docker (helps in building image and run container from that)
 (it requires to read  dockercompose.yaml -> this file is brought from github clone it or create vim editor and copy script from the folder)
